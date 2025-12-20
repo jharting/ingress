@@ -1,6 +1,6 @@
 module github.com/redhatinsights/insights-ingress-go
 
-go 1.21
+go 1.21.0
 
 require (
 	github.com/aws/aws-sdk-go v1.51.21
@@ -44,7 +44,7 @@ require (
 	github.com/prometheus/common v0.34.0 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/spf13/afero v1.8.2 // indirect
-	github.com/spf13/cast v1.4.1 // indirect
+	github.com/spf13/cast v1.10.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
