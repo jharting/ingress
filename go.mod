@@ -1,10 +1,10 @@
 module github.com/redhatinsights/insights-ingress-go
 
-go 1.21
+go 1.22
 
 require (
 	github.com/aws/aws-sdk-go v1.51.21
-	github.com/go-chi/chi v4.1.2+incompatible
+	github.com/go-chi/chi/v5 v5.2.4
 	github.com/google/uuid v1.3.0
 	github.com/jarcoal/httpmock v1.0.8
 	github.com/minio/minio-go/v6 v6.0.57
