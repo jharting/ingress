@@ -1,6 +1,6 @@
 module github.com/redhatinsights/insights-ingress-go
 
-go 1.21
+go 1.22
 
 require (
 	github.com/aws/aws-sdk-go v1.51.21
@@ -28,7 +28,7 @@ require (
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/cpuid/v2 v2.0.12 // indirect
+	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
 	github.com/minio/md5-simd v1.1.2 // indirect
@@ -50,7 +50,7 @@ require (
 	github.com/subosito/gotenv v1.2.0 // indirect
 	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/net v0.23.0 // indirect
-	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/ini.v1 v1.66.4 // indirect
